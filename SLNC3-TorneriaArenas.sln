@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLNC3-TorneriaArenas", "SLNC3-TorneriaArenas\SLNC3-TorneriaArenas.csproj", "{4EF73D31-5286-458D-8E72-66ED76B40961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF73D31-5286-458D-8E72-66ED76B40961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF73D31-5286-458D-8E72-66ED76B40961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF73D31-5286-458D-8E72-66ED76B40961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF73D31-5286-458D-8E72-66ED76B40961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {747B3CCD-8488-43FB-B1D5-DC91A5C1FC53}
+	EndGlobalSection
+EndGlobal
